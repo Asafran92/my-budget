@@ -1,4 +1,4 @@
-# My-Budget-Hero, a budget tracker app
+# My-Budgets, a budget tracker app
 
 ## Description:
 
